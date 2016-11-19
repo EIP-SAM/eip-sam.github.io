@@ -24,7 +24,13 @@ body {
 }
 
 .row-explanation {
+  font-size: 1em;
+  text-align: justify;
+}
+
+#home .row-explanation {
   font-size: 1.2em;
+  text-align: center;
 }
 
 #home .glyphicon {
@@ -65,4 +71,8 @@ body {
 
 .social-network img {
   width: 25px;
+}
+
+#features .row h4 {
+  font-weight: bold;
 }
