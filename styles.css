@@ -1,0 +1,68 @@
+body {
+  padding-bottom: 50px;
+  overflow-x: hidden;
+}
+
+#logo {
+  padding: 0;
+}
+
+#home .navbar {
+  margin: 0;
+}
+
+.navbar-brand img {
+  width: 65px;
+}
+
+#home .row {
+  text-align: center;
+}
+
+.row-title {
+  margin-bottom: 50px;
+}
+
+.row-explanation {
+  font-size: 1.2em;
+}
+
+#home .glyphicon {
+  font-size: 5em;
+}
+
+#about .glyphicon {
+  font-size: 3em;
+}
+
+#sam-explanation {
+  background-color: #333;
+  color: white;
+  min-height: 400px;
+  display: flex;
+}
+
+#sam-explanation div {
+  margin: auto;
+}
+
+#sam-explanation h1 {
+  font-size: 4em;
+}
+
+.feature-block {
+  height: 210px;
+  padding-bottom: 15px;
+}
+
+.btn {
+  margin-top: 20px;
+}
+
+.social-network {
+  margin-top: 10px;
+}
+
+.social-network img {
+  width: 25px;
+}
