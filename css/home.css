@@ -1,0 +1,31 @@
+#home .navbar {
+  margin: 0;
+}
+
+#home .row {
+  text-align: center;
+}
+
+#home .row-explanation {
+  font-size: 1.2em;
+  text-align: center;
+}
+
+#home .glyphicon {
+  font-size: 5em;
+}
+
+#sam-explanation {
+  background-color: #333;
+  color: white;
+  min-height: 400px;
+  display: flex;
+}
+
+#sam-explanation div {
+  margin: auto;
+}
+
+#sam-explanation h1 {
+  font-size: 4em;
+}
