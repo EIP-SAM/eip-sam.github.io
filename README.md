@@ -8,6 +8,8 @@ It allows to centralize __system and software migrations__, as well as __backup 
 This tool design goal is to __help the system adminstrator__ of a company in his work, and to be __easily usable by the final user__.
 
 ### Repositories
-See all the organization: [EIP-SAM](https://github.com/EIP-SAM)
+See the organization: [EIP-SAM](https://github.com/EIP-SAM)
+
 See Server & Webapp: [SAM-Solution-Server](https://github.com/EIP-SAM/SAM-Solution-Server)
+
 See Daemon client: [SAM-Solution-Daemon-Client](https://github.com/EIP-SAM/SAM-Solution-Daemon-Client)
